@@ -1,2 +1,2 @@
 # Tiago Berwanger - Personal Portfólio
-### Used Languages: HTML & CSS
+### Languages: HTML & CSS

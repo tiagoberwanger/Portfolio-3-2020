@@ -1,2 +1,1 @@
-# tiagoberwanger.github.io
-Personal Portfólio
+# Tiago Berwanger - Personal Portfólio
